@@ -1,3 +1,7 @@
+[![Gem Version](https://badge.fury.io/rb/hubgrub.svg)](http://badge.fury.io/rb/hubgrub)
+[![Build Status](https://travis-ci.org/squaresurf/hubgrub.svg?branch=master)](https://travis-ci.org/squaresurf/hubgrub)
+[![Coverage Status](https://coveralls.io/repos/squaresurf/hubgrub/badge.svg?branch=master&service=github)](https://coveralls.io/github/squaresurf/hubgrub?branch=master)
+
 # Hubgrub
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/hubgrub`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -38,4 +42,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
